@@ -1,0 +1,5 @@
+{
+  "name": "Aegis AI - Auto Leverage Trader",
+  "description": "An advanced AI-powered automated leverage trading dashboard for MEXC, featuring market sentiment analysis and automated trade execution using Gemini Pro.",
+  "requestFramePermissions": []
+}
